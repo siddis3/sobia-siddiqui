@@ -1,5 +1,8 @@
 # Hi, I'm  Sobia Siddiqui 👋
 
+Healthcare AI portfolio by a Clinical Informatics Analyst specializing in Epic EHR, HEDIS quality measures, and Tableau — now building AI automation tools for clinical data workflows.
+
+
 🏥 Clinical Informatics Analyst | Healthcare AI Builder
 📍 Texas | Open to AI consulting & freelance projects
 
